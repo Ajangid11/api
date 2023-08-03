@@ -1,0 +1,10 @@
+table {
+ background-color: aliceblue;
+ margin: auto;
+ margin-top: 50px;
+ /* padding: 20px; */
+ border:2px blue solid;
+
+}
+th{padding: 10px;border: 1px black solid;}
+td{padding: 10px;border: 1px black solid;margin-top: 5px;}
